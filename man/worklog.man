@@ -1,0 +1,20 @@
+.TH WORKLOG 1
+
+.SH NAME
+worklog
+
+.SH SYNOPSIS
+worklog [operation [files]]
+
+.SH DESCRIPTION
+A simple termial program to document worklog in markdown file
+
+.SH OPTIONS
+
+.B \-n, " new
+
+Create new note. e.g.: worklog new 'name of your note'
+
+.B \-l, " list
+
+List all notes
